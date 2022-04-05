@@ -1,0 +1,6 @@
+
+Fichero de pruebas creado desde la terminal con 
+el comando nano;
+
+ITCA-FEPADE.
+Copy Prof. Gámez
